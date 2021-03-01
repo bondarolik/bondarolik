@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Vyacheslav Bondaruk. I'm build an effective in-house web development and help with professional grow in exiting dev teams. 
+
+
 <!--
 **bondarolik/bondarolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
